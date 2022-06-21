@@ -1,4 +1,3 @@
-## My name is Leena Mathur 
 I am an incoming PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu) in the Language Technologies Institute. My research interests and experiences are in multimodal AI, human-machine interaction, and embodied machine intelligence 🤖🧠
 
 
