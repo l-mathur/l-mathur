@@ -1,4 +1,6 @@
-### Hi there 👋
+## My name is Leena Mathur 
+I am an incoming PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu) in the Language Technologies Institute. My research interests and experiences are in multimodal AI, human-machine interaction, and embodied machine intelligence 🤖🧠
+
 
 <!--
 **l-mathur/l-mathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
