@@ -1,6 +1,6 @@
 I am a PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu) in the Language Technologies Institute. My research interests and experiences are in multimodal AI, embodied intelligence 🤖, and human-machine interaction
 
-<a href="l-mathur.github.io">l-mathur.github.io</a>
+<a href="https://l-mathur.github.io">l-mathur.github.io</a>
 
 
 <!--
