@@ -1,7 +1,6 @@
-I am a PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu) in the Language Technologies Institute. My research interests and experiences are in multimodal AI, embodied intelligence 🤖, and human-machine interaction
+I am a PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu) in the Language Technologies Institute. My research is in the foundations of multimodal AI and embodied AI 🤖 in real-world human-machine interaction contexts.
 
 <a href="https://l-mathur.github.io">l-mathur.github.io</a>
-
 
 <!--
 **l-mathur/l-mathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
