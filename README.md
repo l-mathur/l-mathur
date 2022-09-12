@@ -1,4 +1,4 @@
-I am a PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu) in the Language Technologies Institute. My research is in the foundations of multimodal AI and embodied AI 🤖 in real-world human-machine interaction contexts.
+I am a PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu), advised by Louis-Philippe Morency in the MultiComp Lab. My research is in the foundations of multimodal AI and embodied AI 🤖 in real-world human-machine interaction contexts.
 
 <a href="https://l-mathur.github.io">l-mathur.github.io</a>
 
