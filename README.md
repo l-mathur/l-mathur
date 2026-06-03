@@ -1,4 +1,4 @@
-I am a PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu), advised by Louis-Philippe Morency and Yonatan Bisk. My research is on foundations of multimodal social intelligence in AI systems across embodiments. 
+I am a PhD student at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu). I work on foundations of multimodal social intelligence in AI systems across embodiments. 
 
 <a href="https://l-mathur.github.io">l-mathur.github.io</a>
 
